@@ -41,6 +41,7 @@ body{
 @media (max-width:412px) {
     .bigdiv{
         width: 80%;
+        overflow: scroll;
     }
     #copyright{
         margin-top: 10%;
